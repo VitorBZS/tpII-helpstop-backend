@@ -1,6 +1,4 @@
 ﻿using HelpApp.Application.DTOs;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace HelpApp.Application.Interfaces
 {

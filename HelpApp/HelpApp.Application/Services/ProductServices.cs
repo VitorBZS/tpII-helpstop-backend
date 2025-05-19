@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HelpApp.Domain.Entities;
+using HelpApp.Domain.Interfaces;
+using HelpApp.Application.DTOs;
+using HelpApp.Application.Interfaces;
+using AutoMapper;
 
 namespace HelpApp.Application.Services
 {
-    internal class ProductServices
+    internal class ProductServices : IProductService
     {
+        
     }
 }
